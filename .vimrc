@@ -1,7 +1,7 @@
 " ~/.vimrc — read by vim every time it starts.
 " Lines starting with a double quote are comments.
 "
-" To see what any option does, run inside vim:   :help 'number'
+" To see what any option does, run inside Vim:   :help 'number'
 
 " ---------------------------------------------------------------------------
 " Basics
